@@ -1,6 +1,6 @@
 # Hi there, I'm Kelvin 👋
 
-#### I am enrolled in the ALX 1 Year Software Engineering Programme.
+#### I am currently enrolled in the ALX Software Engineering Programme.
 
 #### I am a Certified Python Developer. Python got more interesting for me when I discovered Django. I haven't looked back since then.
 
