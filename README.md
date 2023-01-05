@@ -24,7 +24,3 @@
 
 <img align="left" alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
 
-
-<!-- BLOG-POST-LIST:START -->
-## <a href="www.arkensblock.com">View My Blog posts</a>
-<!-- BLOG-POST-LIST:END -->
