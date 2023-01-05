@@ -1,4 +1,10 @@
-## Hi there, I'm Kelvin 👋
+#### Hi there, I'm Kelvin 👋
+
+## I am enrolled in the ALX 1 Year Software Engineering Programme.
+
+## I am a Certified Python Developer. Python got more interesting for me when I discovered Django. I haven't looked back since then.
+
+## While you're here, kindly check out my repos, I have some amazing projects in there.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Avwerosuo25&show_icons=true&theme=radical" />
 
