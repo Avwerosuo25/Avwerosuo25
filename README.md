@@ -26,5 +26,5 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-## <a href="www.arkensblock">View My Blog posts</a>
+## <a href="www.arkensblock.com">View My Blog posts</a>
 <!-- BLOG-POST-LIST:END -->
